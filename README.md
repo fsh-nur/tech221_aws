@@ -54,5 +54,5 @@
 
 ## Now we can initialise a repository and push changes from our local computer:
 
-### Follow the instructions on github when creating a new repository and make sure you selct SSH at the top!
+### Follow the instructions on github when creating a new repository and make sure you select SSH at the top!
 
