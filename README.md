@@ -30,8 +30,8 @@
 
 1. Go to Settings on Github:
 2. Locate the tab on the left-hand side which says "SSH and GPG Keys"
-3.Click on "Add new key"
-4.Name the key  (usually identical to what you named it on your local machine) and enter the SSH number you copied earlier.
+3. Click on "Add new key"
+4. Name the key  (usually identical to what you named it on your local machine) and enter the SSH number you copied earlier.
 
 
 ## Now we test! 
