@@ -29,9 +29,17 @@
 ## Now we add our SSH Key to Github
 
 1. Go to Settings on Github:
+![settings_githb](https://user-images.githubusercontent.com/129324316/231215183-b8bdab38-26a7-4c07-8b7d-f9e1e751016c.png)
+
 2. Locate the tab on the left-hand side which says "SSH and GPG Keys"
+![ssh_github](https://user-images.githubusercontent.com/129324316/231215230-4f7a4cfe-79af-4b14-b0aa-9479e9a56673.png)
+
 3. Click on "Add new key"
+![newssh_github](https://user-images.githubusercontent.com/129324316/231215300-e79f6151-490f-4c9f-8c9a-c2ab2deb81d2.png)
+
 4. Name the key  (usually identical to what you named it on your local machine) and enter the SSH number you copied earlier.
+![newkey_github](https://user-images.githubusercontent.com/129324316/231215333-56c25716-79be-48a8-b201-8dcefa4543ad.png)
+
 
 
 ## Now we test! 
@@ -53,6 +61,7 @@
 ### (^^Where username is your github username)
 
 ## Now we can initialise a repository and push changes from our local computer:
+![pushing_github](https://user-images.githubusercontent.com/129324316/231215382-431dea83-a55f-46d2-910e-240aeb16f363.png)
 
 ### Follow the instructions on github when creating a new repository and make sure you select SSH at the top!
 
