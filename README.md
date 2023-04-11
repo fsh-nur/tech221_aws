@@ -15,7 +15,7 @@
 ## Adding the SSH Key to the SSH Agent
 
 - In git bash type:
-`$ eval `ssh-agent -s` `
+`$ eval ssh-agent -s `
 - Then:
 `$ ssh-add fatima-github-key`
 ### (^^ Here you are adding your private key to your local machine)
