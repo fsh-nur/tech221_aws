@@ -39,14 +39,17 @@
 - In git bash type:
 `ssh -T git@github.com`
 - What should appear:
-```> The authenticity of host 'github.com (IP ADDRESS)' can't be established.
+```
+> The authenticity of host 'github.com (IP ADDRESS)' can't be established.
 > RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
-> Are you sure you want to continue connecting (yes/no)?```
+> Are you sure you want to continue connecting (yes/no)?
+```
 - Verify that the fingerprint in the message you see matches GitHub's public key fingerprint. If it does, then type yes
 - You should see:
 ```
 > Hi username! You've successfully authenticated, but GitHub does not
 > provide shell access.
+```
 ### (^^Where username is your github username)
 
 ## Now we can initialise a repository and push changes from our local computer:
