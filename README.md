@@ -47,8 +47,7 @@
 ```
 > Hi username! You've successfully authenticated, but GitHub does not
 > provide shell access.
-where username is your github username
-```
+### (^^Where username is your github username)
 
 ## Now we can initialise a repository and push changes from our local computer:
 
