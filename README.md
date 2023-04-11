@@ -1,4 +1,4 @@
-# *CREATING AND ADDING YOUR SSH KEY TO GITHUB* 
+# CREATING AND ADDING YOUR SSH KEY TO GITHUB
 
 ## How to push changes using github using SSH
 
