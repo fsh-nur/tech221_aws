@@ -2,9 +2,8 @@
 
 ## How to push changes using github using SSH
 
-### Well firstly, you need to create an SSH key pair, which has many types however, RSA is the most common which is made up of public key(^image of padlock) and private key(^image of key). These are created in the local machine, however the public key is used on Github in order to produce a secure connection for **data transfer** between your machine and github!
-![Untitled design (4)](https://user-images.githubusercontent.com/129324316/231216424-b8131748-3b60-4587-9351-30eb247f7472.png)
-
+### Well firstly, you need to create an SSH key pair, which has many types however, RSA is the most common which is made up of public key and private key. These are created in the local machine, however the public key is used on Github in order to produce a secure connection for **data transfer** between your machine and github!
+![public](https://user-images.githubusercontent.com/129324316/231217681-160aa26a-5cc9-459f-90d3-9c8f3c427b23.png)
 
 
 ## Generating an SSH Key into your local machine 
