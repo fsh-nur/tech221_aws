@@ -19,7 +19,7 @@
 - In git bash type:
 `$ eval ssh-agent -s `
 - Then:
-`$ ssh-add fatima-github-key`
+`$ ssh-add <your-key-name`
 ### (^^ Here you are adding your private key to your local machine)
 
 ## Adding the SSH key to your GitHub account
