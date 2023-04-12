@@ -2,7 +2,7 @@
 
 ## How to push changes using github using SSH
 
-### Well firstly, you need to create an SSH key pair, which has many types however, RSA is the most common which is made up of public key and private key. These are created in the local machine, however the public key is used on Github in order to produce a secure connection for **data transfer** between your machine and github!
+Well firstly, you need to create an SSH key pair, which has many types however, RSA is the most common which is made up of public key and private key. These are created in the local machine, however the public key is used on Github in order to produce a secure connection for **data transfer** between your machine and github!
 ![public](https://user-images.githubusercontent.com/129324316/231217681-160aa26a-5cc9-459f-90d3-9c8f3c427b23.png)
 
 
@@ -20,13 +20,13 @@
 `$ eval ssh-agent -s `
 - Then:
 `$ ssh-add <your-key-name`
-### (^^ Here you are adding your private key to your local machine)
+ (^^ Here you are adding your private key to your local machine)
 
 ## Adding the SSH key to your GitHub account
 
 - In git bash type:
 `$ cat <your public key> `
-### Copy your SSH public key that is generated to add into your github
+Copy your SSH public key that is generated to add into your github
 
 ## Now we add our SSH Key to Github
 
@@ -60,7 +60,7 @@
 > Hi username! You've successfully authenticated, but GitHub does not
 > provide shell access.
 ```
-### (^^Where username is your github username)
+(^^Where username is your github username)
 
 ## Now we can initialise a repository and push changes from our local computer:
 ![pushing_github](https://user-images.githubusercontent.com/129324316/231215382-431dea83-a55f-46d2-910e-240aeb16f363.png)
