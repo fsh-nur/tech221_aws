@@ -36,7 +36,7 @@
 2. Locate the tab on the left-hand side which says "SSH and GPG Keys"
 ![ssh_github](https://user-images.githubusercontent.com/129324316/231215230-4f7a4cfe-79af-4b14-b0aa-9479e9a56673.png)
 
-3. Click on "Add new key"
+3. Click on "New SSH Key"
 ![newssh_github](https://user-images.githubusercontent.com/129324316/231215300-e79f6151-490f-4c9f-8c9a-c2ab2deb81d2.png)
 
 4. Name the key  (usually identical to what you named it on your local machine) and enter the SSH number you copied earlier.
