@@ -17,7 +17,7 @@ Well firstly, you need to create an SSH key pair, which has many types however, 
 ## Adding the SSH Key to the SSH Agent
 
 - In git bash type:
-`$ eval ssh-agent -s `
+`$ eval `ssh-agent -s` `
 - Then:
 `$ ssh-add <your-key-name`
  (^^ Here you are adding your private key to your local machine)
